@@ -1,6 +1,6 @@
-### Run through of app functionality
+### Run through of app functionality on youtube
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtube.com/shorts/FxUW4re9F08)
+[![YOUTUBE PREVIEW](https://i9.ytimg.com/vi/FxUW4re9F08/mqdefault.jpg?sqp=COzv4KoG-oaymwEoCMACELQB8quKqQMcGADwAQH4AfYGgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDaUVKhLhzMiQq4WSG8qvJHKOpcRg)](https://youtube.com/shorts/FxUW4re9F08)
 
 ### Setup a Development server
 
