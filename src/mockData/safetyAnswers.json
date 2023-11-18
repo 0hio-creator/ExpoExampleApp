@@ -1,0 +1,182 @@
+[
+    {
+        "id": "6a1787ac-568f-52b6-bea6-4494cad6f124",
+        "speedingTickets": true,
+        "vehicleServiced": false,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "46005eb4-4856-558b-aa73-545ac31e613a",
+        "speedingTickets": false,
+        "vehicleServiced": false,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "61635334-0298-5899-bb75-c7a3e5c85219",
+        "speedingTickets": false,
+        "vehicleServiced": true,
+        "consumedAlcohol": true
+    },
+    {
+        "id": "fc62678a-e011-5bf1-a758-5655446e154b",
+        "speedingTickets": false,
+        "vehicleServiced": true,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "15932755-919b-5ed9-8d56-750964084d9f",
+        "speedingTickets": true,
+        "vehicleServiced": false,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "7ac59d90-e62b-52d5-bc50-a54f2310cbb5",
+        "speedingTickets": false,
+        "vehicleServiced": false,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "4eb5fb5f-6461-5b7f-9019-e389ef5f88a3",
+        "speedingTickets": true,
+        "vehicleServiced": false,
+        "consumedAlcohol": true
+    },
+    {
+        "id": "f130c027-1bc9-57fa-8b70-80f6bc0e378a",
+        "speedingTickets": true,
+        "vehicleServiced": false,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "6563ce26-c9d0-577d-be37-55174fdd8b38",
+        "speedingTickets": false,
+        "vehicleServiced": false,
+        "consumedAlcohol": true
+    },
+    {
+        "id": "0e62c190-eeb1-5d89-a1f1-58bc6dacb1eb",
+        "speedingTickets": true,
+        "vehicleServiced": false,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "dea1becd-c899-52e4-b57b-9811f6921780",
+        "speedingTickets": false,
+        "vehicleServiced": true,
+        "consumedAlcohol": true
+    },
+    {
+        "id": "50d42f22-e06e-5faa-96fe-54b9fc0da219",
+        "speedingTickets": true,
+        "vehicleServiced": false,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "0dbdbf74-ba50-5c80-875b-ae95caaf0a4c",
+        "speedingTickets": true,
+        "vehicleServiced": false,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "0d9f5b43-66aa-54eb-8f8d-4162fd23f697",
+        "speedingTickets": true,
+        "vehicleServiced": false,
+        "consumedAlcohol": true
+    },
+    {
+        "id": "a21a6539-c8e9-53d0-8033-6c68b9ca902d",
+        "speedingTickets": true,
+        "vehicleServiced": false,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "17159c80-8f6f-5b83-830e-e9c392810fe0",
+        "speedingTickets": true,
+        "vehicleServiced": false,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "9e440432-d48c-5b4c-ad49-25682e5d4e24",
+        "speedingTickets": true,
+        "vehicleServiced": true,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "d2a65bd0-1659-552b-8b3f-b0f7f224558d",
+        "speedingTickets": false,
+        "vehicleServiced": false,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "522d0d05-3a56-530e-bdab-f0646f561fff",
+        "speedingTickets": false,
+        "vehicleServiced": false,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "161b0e5c-6a9d-5e70-9631-eebd635e89cb",
+        "speedingTickets": false,
+        "vehicleServiced": true,
+        "consumedAlcohol": true
+    },
+    {
+        "id": "44964d7b-2180-502f-853a-6d0790fc962a",
+        "speedingTickets": true,
+        "vehicleServiced": false,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "a283e06c-d4a7-5deb-835f-05ddf829143f",
+        "speedingTickets": true,
+        "vehicleServiced": true,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "174f0f4c-452d-53a6-8cf1-0d631d8a5335",
+        "speedingTickets": false,
+        "vehicleServiced": true,
+        "consumedAlcohol": true
+    },
+    {
+        "id": "3698cb6e-3b6b-5917-9e38-643a574b17b0",
+        "speedingTickets": true,
+        "vehicleServiced": false,
+        "consumedAlcohol": true
+    },
+    {
+        "id": "390ae25c-d408-5c59-8ee7-ae35cb1d2993",
+        "speedingTickets": true,
+        "vehicleServiced": true,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "d976e20a-265e-55f3-9216-46f7792cd194",
+        "speedingTickets": true,
+        "vehicleServiced": true,
+        "consumedAlcohol": true
+    },
+    {
+        "id": "d038167c-882b-5138-831d-fee2c3a699d5",
+        "speedingTickets": true,
+        "vehicleServiced": true,
+        "consumedAlcohol": true
+    },
+    {
+        "id": "b6918f99-772d-5ed7-9a50-cea45d23234c",
+        "speedingTickets": true,
+        "vehicleServiced": false,
+        "consumedAlcohol": true
+    },
+    {
+        "id": "625422db-60fb-58a7-af51-6b26b1554f18",
+        "speedingTickets": false,
+        "vehicleServiced": true,
+        "consumedAlcohol": false
+    },
+    {
+        "id": "b040da07-6d1d-55fc-a5ae-f64b4dbe02b9",
+        "speedingTickets": true,
+        "vehicleServiced": false,
+        "consumedAlcohol": false
+    }
+]
